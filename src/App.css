@@ -55,12 +55,14 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  color: black;
 }
 
 .rating {
   display: flex;
   align-items: center;
   margin-bottom: 8px;
+  color: black;
 }
 
 .rating span:first-child {
