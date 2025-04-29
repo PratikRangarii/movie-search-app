@@ -1,5 +1,5 @@
 import React from 'react';
-import './MovieCard.css'; // New CSS file for component
+
 
 const MovieCard = ({ movie }) => {
   const posterUrl = movie.poster_path
